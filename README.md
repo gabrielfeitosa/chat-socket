@@ -13,7 +13,7 @@
 Faça o clone desse repositório:
 
 ```sh
-$ git clone https://github.com/blogdogabrielfeitosa/chat-socket
+$ git clone https://github.com/gabrielfeitosa/chat-socket
 ```
 
 Para instalar as dependências:
